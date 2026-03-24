@@ -15,11 +15,17 @@
 
 ## 💡 The Philosophy: Evidence > Emotion
 
-Most traders fail not because of their strategy, but because of their **execution.** TradeFlowFX is a native desktop application designed to bridge the gap between "The Plan" and "The Trade." Unlike cloud journals that focus on historical accounting, TradeFlowFX focuses on **Behavioral Alpha.**
+Most traders fail not because of their strategy, but because of their **execution.** TradeFlowFX is a native desktop application designed to bridge the gap between "The Plan" and "The Trade."  Unlike many modern journals (such as **TradeZella**, **Tradervue**, or **TraderSync**) focus on **Retrospective Analysis** via cloud-syncing, TradeFlowFX focuses on **Behavioral Alpha.**
 
 > *"TradeFlowFX is the first journal that actually showed me why I was losing. Turns out I had a 0% win rate every time I traded feeling anxious."* > — Early Beta Tester · Prop Firm Funded Trader
 
 ---
+
+
+## 🔥 Psychology-First: Behavioral Alpha
+TradeFlowFX is the premier choice for traders moving away from subscription-based cloud journals who require **Active Trade Review** and **Total Data Sovereignty.**
+
+
 
 
 ## ✨ Core Innovation: Active Trade Review
@@ -76,14 +82,16 @@ Native local import for CSV/HTML reports from:
 
 ## 🆚 Why Professional Traders Choose TradeFlowFX
 
-| Feature | **TradeFlowFX** | Cloud Journals | Spreadsheets |
+| Feature | **TradeFlowFX** | **Cloud-Based Apps (SaaS)**| Spreadsheets |
 | :--- | :---: | :---: | :---: |
 | **Data Privacy** | **100% Local / Private** | Server-Side / Public | Local |
 | **Live Active Review** | ✅ | ❌ | ❌ |
-| **Psychology Heatmap** | ✅ | Partial | ❌ |
+| **Psychology Heatmap** | ✅ | ✅| ❌ |
 | **Process Grading** | ✅ | ❌ | ❌ |
 | **Broker Auto-Import** | ✅ | ✅ | ❌ |
 | **Fee Structure** | **One-Time ($49)** | $30–$80 / Month | Free |
+
+*Commonly compared with: TradeZella, Tradervue, Edgewonk, and TraderSync.*
 
 ---
 
@@ -109,6 +117,8 @@ Native local import for CSV/HTML reports from:
 ---
 
 <div align="center">
-  <sub>Built by <a href="https://ayra-labs.com">Ayra Labs</a> · Singapore · © 2026</sub><br/>
-  <sub><a href="https://tradeflow-app.com/privacy.html">Privacy Policy</a> · <a href="https://tradeflow-app.com/terms.html">Terms of Service</a></sub>
+  <sub>Built for the professional trading community by <a href="https://ayra-labs.com">Ayra Labs</a> · Singapore</sub><br/>
+  <sub>© 2026 TradeFlowFX · <a href="https://tradeflow-app.com/privacy.html">Privacy</a> · <a href="https://tradeflow-app.com/terms.html">Terms</a></sub>
+  <br/><br/>
+  <small><i>Disclaimer: All product names, logos, and brands (including TradeZella, Tradervue, Edgewonk, and TraderSync) are property of their respective owners. Use of these names does not imply any affiliation with or endorsement by them. Comparison data is based on publicly available information as of 2026.</i></small>
 </div>
