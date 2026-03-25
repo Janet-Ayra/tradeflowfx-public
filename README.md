@@ -2,7 +2,7 @@
   <img src="https://tradeflow-app.com/public/screenshots/dashboard.webp" alt="TradeFlowFX Desktop Dashboard - Private Trading Journal" width="720" />
 
   <h1>TradeFlowFX</h1>
-  <p><strong>Master your mind. Protect your data. Own your edge.</strong></p>
+  <p><strong>Train your discipline. Understand your decisions. Trade with awareness.</strong></p>
   <p>The <u>Private-First</u> Desktop Trading Journal for Professional Forex, Crypto & Multi-Asset Traders.</p>
 
   [![Download Free](https://img.shields.io/badge/Download_Free-macOS_%26_Windows-000000?style=for-the-badge)](https://tradeflow-app.com)
