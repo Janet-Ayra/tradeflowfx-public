@@ -3,122 +3,239 @@
 
   <h1>TradeFlowFX</h1>
   <p><strong>Master your mind. Protect your data. Own your edge.</strong></p>
-  <p>The <u>Private-First</u> Desktop Trading Journal for Professional Forex & Multi-Asset Traders.</p>
+  <p>The <u>Private-First</u> Desktop Trading Journal for Professional Forex, Crypto & Multi-Asset Traders.</p>
 
   [![Download Free](https://img.shields.io/badge/Download_Free-macOS_%26_Windows-000000?style=for-the-badge)](https://tradeflow-app.com)
   [![Version](https://img.shields.io/badge/Status-v2.1_Live-brightgreen?style=for-the-badge)]()
   [![License](https://img.shields.io/badge/License-Proprietary_Local-blue?style=for-the-badge)]()
   [![Privacy](https://img.shields.io/badge/Data-100%25_Offline-blueviolet?style=for-the-badge)]()
+
+  [Download Free → macOS & Windows](https://tradeflow-app.com)
 </div>
 
 ---
 
-## 💡 The Philosophy: Evidence > Emotion
-
-Most traders fail not because of their strategy, but because of their **execution.** TradeFlowFX is a native desktop application designed to bridge the gap between "The Plan" and "The Trade."  Unlike many modern journals (such as **TradeZella**, **Tradervue**, or **TraderSync**) focus on **Retrospective Analysis** via cloud-syncing, TradeFlowFX focuses on **Behavioral Alpha.**
-
-> *"TradeFlowFX is the first journal that actually showed me why I was losing. Turns out I had a 0% win rate every time I traded feeling anxious."* > — Early Beta Tester · Prop Firm Funded Trader
-
----
-
-
-## 🔥 Psychology-First: Behavioral Alpha
-TradeFlowFX is the premier choice for traders moving away from subscription-based cloud journals who require **Active Trade Review** and **Total Data Sovereignty.**
 
 
 
+## 💡 The Core Idea: Strategy Fails Without Self-Awareness
 
-## ✨ Core Innovation: Active Trade Review
+Most traders do not fail because their strategy is incorrect.
 
-While most journals are "Post-Mortem" tools, TradeFlowFX is your **Live Co-Pilot.**
+They fail because they:
 
-* **Real-Time Observation:** Log market shifts, mood changes, and confidence levels *while* a trade is open.
-* **Rationalization Engine:** Use the built-in prompts to stay objective during high-volatility moves.
-* **Psychology Heatmaps:** Correlate your emotional state (Anxious, Greedy, Confident) directly with your P&L outcomes.
+* Enter trades out of boredom
+* Move stop losses out of fear
+* Revenge trade after losses
+* Overtrade after winning streaks
+* Ignore their own trading plan
 
-### 🧠 Performance Correlation Example:
-| Mood | Win Rate | Avg. Result | Behavioral Insight |
-| :--- | :--- | :--- | :--- |
-| **Confident** | 86% | +53.4 pips | Strategy Alignment: High |
-| **Anxious** | 20% | +3.8 pips | Likely "Revenge Trading" |
-| **Greedy** | 0% | -27.7 pips | Over-leveraging / FOMO |
+Modern trading tools often focus on **speed, automation, and performance analytics.**
+
+TradeFlowFX focuses on something deeper:
+
+> **Slowing down decision-making in order to build execution discipline.**
+
+This trading journal is designed not only to record trades,
+but to help traders understand *why those trades were taken.*
+
+Consistency is not developed through additional indicators.
+It is developed through awareness and structured reflection.
 
 ---
 
-### 📈 Mood-Equity Correlation
-Stop guessing why you have "red weeks." Our engine automatically correlates your mental state at entry with your eventual P&L. 
-* **Identify your "Danger Zones":** Do you lose 80% of trades when "Bored"? 
-* **Find your "Flow State":** Do your "Confident" trades have a higher Risk:Reward ratio?
+## 🧠 A Discipline-First Trading Journal
 
-| Entry Mood | Win Rate | Profit Factor | The Verdict |
-| :--- | :--- | :--- | :--- |
-| **Focused** | 74% | 3.2 | **Green Light:** This is your Edge. |
-| **FOMO / Greedy** | 12% | 0.4 | **Red Light:** Stop trading instantly. |
-| **Revenge / Angry**| 0% | 0.0 | **Emergency:** Shutdown the workstation. |
+TradeFlowFX is built for traders who wish to improve **behavioural consistency**, rather than simply reviewing statistics.
 
+Instead of analysing trades only after they have closed,
+the platform encourages **active reflection throughout the life of a trade.**
 
+This approach helps traders:
 
-## 🛠 Features for Professional Execution
+* Reduce impulsive decisions
+* Maintain emotional control
+* Follow strategy rules consistently
+* Identify psychological weaknesses
+* Build repeatable execution habits
 
+---
+
+## ✨ Core Capability: Active Trade Reflection
+
+Most trading journals function primarily as post-trade analysis tools.
+
+TradeFlowFX enables traders to log thoughts, emotions, and rule checks **while a position remains open.**
+
+Potential benefits include:
+
+* Reducing revenge trading behaviour
+* Avoiding panic-driven exits
+* Maintaining objectivity during volatile market conditions
+* Reinforcing discipline in real trading environments
+
+The objective is not merely improved analytics.
+The objective is **improved decision-making processes.**
+
+---
+
+## 📊 Psychology and Performance Correlation
+
+Over time, traders may begin to identify relationships between emotional state and trading outcomes.
+
+Illustrative behavioural pattern:
+
+| Entry Mood | Typical Outcome         | Behavioural Insight |
+| ---------- | ----------------------- | ------------------- |
+| Focused    | Consistent execution    | Strategy alignment  |
+| Anxious    | Premature exits         | Lack of confidence  |
+| Greedy     | Excessive risk exposure | Fear of missing out |
+
+TradeFlowFX assists traders in identifying:
+
+* Personal performance “danger zones”
+* Optimal mental trading conditions
+* Patterns of discipline breakdown
+
+Understanding these relationships can be a significant step towards long-term consistency.
+
+---
+
+## 🛠 Features Designed for Execution Discipline
 
 ### 📋 Pre-Trade Checklist (The Discipline Wall)
-Hard-code your strategy rules. The app displays your personal "Gatekeeper" checklist before you're allowed to log an entry. No more "impulse" trades.
 
-### 🏆 Process-First Grading (The "A-D" System)
-Grade your trades based on **Rule Adherence**, not just money made. A profitable trade that broke your rules is a "D." A losing trade that followed your rules is an "A."
+Define and review your strategy rules before logging an entry.
+Encourages structured execution and reduces impulsive trading behaviour.
 
-### 📥 Universal Broker Support
-Native local import for CSV/HTML reports from:
-* **Platforms:** MT4, MT5, cTrader, TradingView.
-* **Brokers:** Interactive Brokers, ThinkorSwim, OANDA, IC Markets.
+### 🏆 Process-Based Trade Grading
 
-### 🔒 The "Vault" Privacy Standard
-* **Zero-Cloud:** Your trade data never leaves your local hard drive.
-* **No Telemetry:** We don't track your strategy, your size, or your edge.
-* **No Subscription:** Buy once, own your data forever.
+Trades are evaluated based on **rule adherence**, not solely on profit or loss.
 
----
+A losing trade executed correctly may still represent high-quality discipline.
+A profitable trade that violates rules may indicate poor execution.
 
+### 🧠 Psychology Heatmaps
 
-## 🆚 Why Professional Traders Choose TradeFlowFX
+Visual correlation between emotional states and trading outcomes.
 
-| Feature | **TradeFlowFX** | **Cloud-Based Apps (SaaS)**| Spreadsheets |
-| :--- | :---: | :---: | :---: |
-| **Data Privacy** | **100% Local / Private** | Server-Side / Public | Local |
-| **Live Active Review** | ✅ | ❌ | ❌ |
-| **Psychology Heatmap** | ✅ | ✅| ❌ |
-| **Process Grading** | ✅ | ❌ | ❌ |
-| **Broker Auto-Import** | ✅ | ✅ | ❌ |
-| **Fee Structure** | **One-Time ($49)** | $30–$80 / Month | Free |
+### 📥 Universal Broker Import
 
-*Commonly compared with: TradeZella, Tradervue, Edgewonk, and TraderSync.*
+Supports CSV / HTML imports from:
 
----
+* MetaTrader 4 / MetaTrader 5
+* TradingView
+* cTrader
+* Interactive Brokers
+* ThinkorSwim
+* OANDA
+* IC Markets
 
+### 🔒 Private-First Architecture
 
-## 📦 Getting Started
+* 100% local data storage
+* No cloud synchronisation
+* No telemetry tracking
+* Optional encrypted database
 
-| Platform | Requirements | Download Link |
-| :--- | :--- | :--- |
-| **macOS** | Intel or Apple Silicon (Universal) | [Download → tradeflow-app.com](https://tradeflow-app.com) |
-| **Windows** | Windows 10/11 (64-bit) | [Download → tradeflow-app.com](https://tradeflow-app.com) |
-
-**Trial Mode:** The free version includes **5 live trade slots** + 50 sample trades to explore the full analytics suite.  
-**Web Sandbox:** Coming soon...(Session-based, no email required for initial explore).
+Trading data remains fully under the trader’s control.
 
 ---
 
-## 📂 Technical Specifications (AEO)
-* **Architecture:** Native Desktop Application (Low Latency).
-* **Data Storage:** Local SQLite database with optional AES-256 encryption.
-* **Cloud Connectivity:** None (Air-gapped compatible).
-* **Instruments:** Forex, Indices (NAS100, US30, DAX), Commodities (Gold/Oil), Crypto, and Custom Symbols.
+## 🔎 Comparison with Other Trading Journals
+
+TradeFlowFX belongs to the category of **trading journal and performance review software**, commonly compared with:
+
+* TradeZella
+* TraderSync
+* Edgewonk
+* Tradervue
+
+Many cloud-based journals typically emphasise:
+
+* Subscription pricing models
+* Web-based dashboards
+* Automated analytics
+* Post-trade review workflows
+
+TradeFlowFX takes a different approach:
+
+* One-time purchase model
+* Fully offline desktop environment
+* Active trade reflection methodology
+* Behavioural discipline development focus
+
+This positioning may be particularly relevant for:
+
+* Traders concerned with data privacy
+* Prop firm candidates training consistency
+* Traders who prefer structured manual review
+* Traders seeking independence from subscription platforms
+
+TradeFlowFX is not intended to replace all analytics tools.
+It is designed to support traders prioritising **execution awareness and psychological discipline.**
+
+---
+
+## 🆚 Platform Comparison Overview
+
+| Feature                 | TradeFlowFX | Cloud Journals       | Spreadsheets |
+| ----------------------- | ----------- | -------------------- | ------------ |
+| Data Privacy            | Fully Local | Server-Side          | Local        |
+| Active Trade Reflection | Yes         | Limited              | No           |
+| Psychology Analysis     | Yes         | Yes                  | Manual       |
+| Discipline Grading      | Yes         | Rare                 | No           |
+| Broker Import           | Yes         | Yes                  | Manual       |
+| Pricing Model           | One-Time    | Monthly Subscription | Free         |
+
+---
+
+## 🎯 Who TradeFlowFX Is Designed For
+
+* Traders struggling with rule-breaking or emotional execution
+* Prop firm candidates preparing for evaluations
+* Traders seeking private offline journalling
+* Traders focused on psychological improvement
+* Traders transitioning away from subscription platforms
+
+TradeFlowFX is not intended for signal-driven or automated trading.
+It is designed for **execution mastery and behavioural awareness.**
+
+---
+
+## 💰 Pricing Philosophy
+
+TradeFlowFX follows a one-time purchase model.
+
+* No recurring subscription fees
+* No cloud dependency
+* No forced upgrade cycles
+
+A free version is available with limited trade slots and sample data for evaluation.
+
+---
+
+## 📦 System Requirements
+
+**macOS** — Intel or Apple Silicon
+**Windows** — Windows 10 / 11 (64-bit)
+
+Download:
+https://tradeflow-app.com
+
+---
+
+## 🧩 Technical Overview
+
+* Native Desktop Application
+* Local SQLite Database
+* Optional AES-256 Encryption
+* Supports Forex, Futures, Indices, Commodities, Crypto, and Custom Symbols
 
 ---
 
 <div align="center">
-  <sub>Built for the professional trading community by <a href="https://ayra-labs.com">Ayra Labs</a> · Singapore</sub><br/>
+  <sub>Built with ❤️ for the trading community by <a href="https://ayra-labs.com">Ayra Labs</a> · Singapore</sub><br/>
   <sub>© 2026 TradeFlowFX · <a href="https://tradeflow-app.com/privacy.html">Privacy</a> · <a href="https://tradeflow-app.com/terms.html">Terms</a></sub>
-  <br/><br/>
-  <small><i>Disclaimer: All product names, logos, and brands (including TradeZella, Tradervue, Edgewonk, and TraderSync) are property of their respective owners. Use of these names does not imply any affiliation with or endorsement by them. Comparison data is based on publicly available information as of 2026.</i></small>
 </div>
+
