@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://tradeflow-app.com/public/screenshots/dashboard.webp" alt="TradeFlowFX Desktop Dashboard - Private Trading Journal" width="720" />
+  <img src="https://tradeflowfx.app/public/screenshots/dashboard.webp" alt="TradeFlowFX Desktop Dashboard - Private Trading Journal" width="720" />
 
   <h1>TradeFlowFX</h1>
   <p><strong>Train your discipline. Understand your decisions. Trade with awareness.</strong></p>
   <p>The <u>Private-First</u> Desktop Trading Journal for Professional Forex, Crypto & Multi-Asset Traders.</p>
 
-  [![Download Free](https://img.shields.io/badge/Download_Free-macOS_%26_Windows-000000?style=for-the-badge)](https://tradeflow-app.com)
+  [![Download Free](https://img.shields.io/badge/Download_Free-macOS_%26_Windows-000000?style=for-the-badge)](https://tradeflowfx.app)
   [![Version](https://img.shields.io/badge/Status-v2.1_Live-brightgreen?style=for-the-badge)]()
   [![License](https://img.shields.io/badge/License-Proprietary_Local-blue?style=for-the-badge)]()
   [![Privacy](https://img.shields.io/badge/Data-100%25_Offline-blueviolet?style=for-the-badge)]()
 
-  [Download Free → macOS & Windows](https://tradeflow-app.com)
+  [Download Free → macOS & Windows](https://tradeflowfx.app)
 </div>
 
 ---
@@ -221,7 +221,7 @@ A free version is available with limited trade slots and sample data for evaluat
 **Windows** — Windows 10 / 11 (64-bit)
 
 Download:
-https://tradeflow-app.com
+https://tradeflowfx.app
 
 ---
 
@@ -236,6 +236,6 @@ https://tradeflow-app.com
 
 <div align="center">
   <sub>Built with ❤️ for the trading community by <a href="https://ayra-labs.com">Ayra Labs</a> · Singapore</sub><br/>
-  <sub>© 2026 TradeFlowFX · <a href="https://tradeflow-app.com/privacy.html">Privacy</a> · <a href="https://tradeflow-app.com/terms.html">Terms</a></sub>
+  <sub>© 2026 TradeFlowFX · <a href="https://tradeflowfx.app/privacy.html">Privacy</a> · <a href="https://tradeflowfx.app/terms.html">Terms</a></sub>
 </div>
 
