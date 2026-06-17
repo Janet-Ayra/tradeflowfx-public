@@ -5,12 +5,12 @@
   <p><strong>Train your discipline. Understand your decisions. Trade with awareness.</strong></p>
   <p>The <u>Private-First</u> Desktop Trading Journal for Professional Forex, Crypto & Multi-Asset Traders.</p>
 
-[![Download Free](https://img.shields.io/badge/Download_Free-macOS_%26_Windows_%26_Linux-000000?style=for-the-badge)](https://tradeflowfx.app)
+[![Download Free](https://img.shields.io/badge/Download_Free-macOS_%26_Windows_%26 ?style=for-the-badge)](https://tradeflowfx.app)
 [![Version](https://img.shields.io/badge/Status-v2.1_Live-brightgreen?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-Proprietary_Local-blue?style=for-the-badge)]()
 [![Privacy](https://img.shields.io/badge/Data-100%25_Offline-blueviolet?style=for-the-badge)]()
 
-[Download Free → macOS, Windows & Linux](https://tradeflowfx.app)
+[Download Free → macOS & Windows](https://tradeflowfx.app)
 
 </div>
 
@@ -18,7 +18,6 @@
 
 ## 🆕 Latest Updates
 
-* 🐧 Linux support added (AppImage / portable builds)
 * 🍎 macOS version now Apple notarized for secure installation
 
 ---
@@ -146,18 +145,6 @@ Supports CSV / HTML imports from:
 
 Trading data remains fully under the trader’s control.
 
-### 🐧 Native Linux Support
-
-TradeFlowFX now runs on Linux environments.
-
-Supports:
-
-* AppImage (recommended)
-* Debian-based distributions (.deb)
-* Portable builds
-
-Designed for traders who prefer fully local, privacy-first workflows on Linux systems.
-
 ---
 
 ## 🔎 Comparison with Other Trading Journals
@@ -237,7 +224,6 @@ A free version is available with limited trade slots and sample data for evaluat
 
 **macOS** — Intel or Apple Silicon (Apple notarized)
 **Windows** — Windows 10 / 11 (64-bit)
-**Linux** — Ubuntu / Debian-based / AppImage compatible systems
 
 Download:
 https://tradeflowfx.app
