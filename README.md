@@ -3,9 +3,9 @@
 
   <h1>TradeFlowFX</h1>
   <p><strong>Train your discipline. Understand your decisions. Trade with awareness.</strong></p>
-  <p>The <u>Private-First</u> Desktop Trading Journal for Professional Forex, Crypto & Multi-Asset Traders.</p>
+  <p>The <u>Private-First</u> Desktop Trading Journal for Professional Forex & Multi-Asset Traders.</p>
 
-[![Download Free](https://img.shields.io/badge/Download_Free-macOS_%26_Windows_%26 ?style=for-the-badge)](https://tradeflowfx.app)
+
 [![Version](https://img.shields.io/badge/Status-v2.1_Live-brightgreen?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-Proprietary_Local-blue?style=for-the-badge)]()
 [![Privacy](https://img.shields.io/badge/Data-100%25_Offline-blueviolet?style=for-the-badge)]()
@@ -235,7 +235,7 @@ https://tradeflowfx.app
 * Native Desktop Application
 * Local SQLite Database
 * Optional AES-256 Encryption
-* Supports Forex, Futures, Indices, Commodities, Crypto, and Custom Symbols
+* Supports Forex, Futures, Indices, Commodities and Custom Symbols
 
 ---
 
